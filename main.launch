@@ -1,0 +1,10 @@
+<launch>
+  <node name="controller" pkg="rosserial_python" type="serial_node.py" output="screen">
+    <param name="port" value="/dev/ttyUSB0"/>
+  </node>
+
+  <node name="receiver" pkg="rosserial_python" type="serial_node.py" output="screen">
+    <param name="port" value="/dev/ttyUSB1"/>
+  </node>
+
+</launch>
