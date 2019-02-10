@@ -1,5 +1,4 @@
-# seeit-moveit
-See It, Move It!
+# See It, Move It!
 
 ## Inspiration
 Our first paradigm-shifting hackathon idea was SlapRat: in which we create a mouse that shakes itself periodically to keep a computer screen from falling asleep. While a titillating project concept at first, we quickly became disillusioned with SlapRat and wanted to create something more dynamic, more fun, that would bring people together. 
